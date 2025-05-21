@@ -2,4 +2,9 @@
 plugins {
     alias(libs.plugins.androidApplication) apply false
     alias(libs.plugins.jetbrainsKotlinAndroid) apply false
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> 0752904 (commit ajuste)
